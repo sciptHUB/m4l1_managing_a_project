@@ -3,11 +3,11 @@ Orange
 Green
 Cyan
 Yellow
-Ivory
+Deepblue
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
+Magenta
 Brown
 Red
